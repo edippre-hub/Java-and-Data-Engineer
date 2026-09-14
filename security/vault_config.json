@@ -1,0 +1,7 @@
+{
+  "vault": {
+    "address": "http://localhost:8200",
+    "token": "example-token",
+    "secrets_path": "secret/data/app"
+  }
+}
