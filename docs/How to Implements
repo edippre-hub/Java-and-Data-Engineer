@@ -1,0 +1,9 @@
+| Interview Topic | Example Implementation |
+| --- | --- |
+| **Java microservices** | Spring Boot apps under ``/microservices/`` |
+| **Data pipelines** | Kafka + Spark integration under ``/data-pipeline/`` |
+| **Schema evolution** | ``schema_registry.json`` |
+| **Fault tolerance** | ``fault_tolerance_strategy.md`` |
+| **CI/CD** | Jenkinsfile and GitHub Actions |
+| **Security** | Vault and OAuth2 setup |
+| **Leadership maturity** | Architecture documentation and code reviews |
